@@ -10,4 +10,6 @@ set color style (mostly from Gogh)
  and Powerline font (from powerline/fonts).
 The oh-my-zsh theme defaults to agnoster, the color style defaults to Tango, and the font defaults to Ubuntu.
 
+This Repo uses the official source of Termux. In Mainland China, you may need to add the Termux application to the proxy list.
+
 # Use:
