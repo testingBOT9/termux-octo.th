@@ -56,5 +56,7 @@ For better typing support, just swipe left on the small keyboard of `volume plus
 ## Example 
 Tango color theme + oh-my-zsh agnoster theme + Ubuntu font:
 
+<details>
+
 ![](./termux-ohmyzsh.png)
 - - -
