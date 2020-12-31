@@ -9,3 +9,5 @@ environment and zsh-syntax
 set color style (mostly from Gogh)
  and Powerline font (from powerline/fonts).
 The oh-my-zsh theme defaults to agnoster, the color style defaults to Tango, and the font defaults to Ubuntu.
+
+# Use:
