@@ -56,5 +56,7 @@ sh -c "$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/instal
 ## 示例
 Tango 颜色主题 + oh-my-zsh agnoster 主题 + Ubuntu 字体：
 
+<details>
+
 ![](./termux-ohmyzsh.png)
 - - -
