@@ -1,4 +1,4 @@
-# Termux-ohmyzsh
+# termux-octo.th
 Read in [`English`](https://github.com/testingBOT9/termux-octo.th/blob/main/README(1).md)
 
 A fork from [oh-my-termux](https://github.com/4679/oh-my-termux) 。让你的 Termux 变的五颜六色～
